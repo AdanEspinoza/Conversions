@@ -1,0 +1,56 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:id="@+id/container">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerVertical="true">
+
+        <ImageButton
+            android:id="@+id/btnUnits"
+            android:layout_width="0dp"
+            android:layout_height="250dp"
+            android:layout_weight="1"
+            android:background="@drawable/btnunits"
+            android:text="@string/units"
+            android:textColor="#FFF"
+            android:textSize="35dp"
+            android:onClick="onConvert"
+            android:elevation="100dp"
+            android:src="@mipmap/btnunit"
+            android:scaleType="fitCenter"/>
+
+        <ImageButton
+            android:id="@+id/btnCurrency"
+            android:layout_width="0dp"
+            android:layout_height="250dp"
+            android:layout_weight="1"
+            android:background="@drawable/btncurrency"
+            android:text="@string/currency"
+            android:textColor="#FFF"
+            android:textSize="35dp"
+            android:onClick="onConvert"
+            android:src="@mipmap/btncurrency"
+            android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+</RelativeLayout>
+
+
+
+
+
+

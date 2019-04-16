@@ -1,0 +1,22 @@
+<resources>
+    <style name="mySpinnerStyle">
+        <item name="android:divider">@color/white</item>
+        <item name="android:dividerHeight">1dp</item>
+    </style>
+
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Set AppCompat’s actionBarStyle -->
+        <item name="actionBarStyle">@style/AlertDialog.AppCompat.Light</item>
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">@color/spinner</item>
+        <item name="colorPrimaryDark">@color/spinnerDark</item>
+        <item name="colorAccent">@color/color_black</item>
+        <item name="icon">@color/color_white</item>
+        <item name="android:textColorPrimary">@color/color_black</item>
+        <item name="android:windowBackground">@color/clouds</item>
+        <!--<item name="android:spinnerDropDownItemStyle">@style/App.Style.Sp</item>-->
+        <item name="android:dropDownListViewStyle">@style/mySpinnerStyle</item>
+        <item name="android:textColor">@color/color_black</item>
+        <!--<item name="android:windowBackground">@color/color_amber_500</item>-->
+    </style>
+</resources>

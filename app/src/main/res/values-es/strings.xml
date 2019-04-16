@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Translation-->
+    <string name="app_name">U/M Conversiones</string>
+    <string name="hintConversion">Convertir</string>
+    <string name="units">UNIDADES</string>
+    <string name="currency">MONEDA</string>
+    <string name="measure">MEDIDA</string>
+    <string name="from">DE</string>
+    <string name="to">A</string>
+    <string name="btnConvert">Convertir</string>
+    <string name="favUnits">Unidades Favoritas</string>
+    <string name="favCurrency">Monedas Favoritas</string>
+    <string name="emptyList">La lista está vacía</string>
+    <string name="currency_prompt">Escoger</string>
+    <string-array name="currency_options">
+        <item>AED-Dirham de EAU</item>
+        <item>AFA-Afganistán Afghani</item>
+        <item>ALL-Lek Albanés</item>
+        <item>ANG-Guilder Antillano</item>
+        <item>ARS-Peso Argentino</item>
+        <item>AUD-Dólar Australiano</item>
+        <item>AWG-Aruba Florin</item>
+        <item>BBD-Dólar de Barbados</item>
+        <item>BDT-Bangladesh Taka</item>
+        <item>BHD-Dinar de Bahrein</item>
+        <item>BIF-Burundi Franc</item>
+        <item>BMD-Dólar de Bermudas</item>
+        <item>BND-Dólar de Brunei</item>
+        <item>BOB-Boliviano de Bolivia</item>
+        <item>BRL-Real Brasileño</item>
+        <item>BSD-Dólar de las Bahamas</item>
+        <item>BTN-Bhutan Ngultrum</item>
+        <item>BWP-Botswana Pula</item>
+        <item>BZD-Dólar de Belice</item>
+        <item>CAD-Dólar Canadiense</item>
+        <item>CHF-Franco Suizo</item>
+        <item>CLP-Peso Chileno</item>
+        <item>CNY-Yuan Chino</item>
+        <item>COP-Peso Colombiano</item>
+        <item>CRC-Colón Costa Rica</item>
+        <item>CUP-Peso Cubano</item>
+        <item>CVE-Escudo de Cabo Verde</item>
+        <item>CYP-Libra Chipriota</item>
+        <item>CZK-Corona Checa</item>
+        <item>DJF-Franco Dijibouti</item>
+        <item>DKK-Corona Danesa</item>
+        <item>DOP-Peso Dominicano</item>
+        <item>DZD-Dinar Argelino</item>
+        <item>EEK-Corona Estonia</item>
+        <item>EGP-Libra Egipcia</item>
+        <item>ETB-Birrv Etíope</item>
+        <item>EUR-Euro</item>
+        <item>FKP-Libra Malvinense</item>
+        <item>GBP-Libra Británica</item>
+        <item>GHC-Cedi de Ghana</item>
+        <item>GIP-Libra de Gibraltar</item>
+        <item>GMD-Dalasi de Gambia</item>
+        <item>GNF-Franco Guineano</item>
+        <item>GTQ-Quetzal de Guatemala</item>
+        <item>GYD-Dólar Guyanés</item>
+        <item>HKD-Dólar de Hong Kong</item>
+        <item>HNL-Honduras Lempira</item>
+        <item>HRK-Kuna Croata</item>
+        <item>HTG-Gourde Haitiano</item>
+        <item>HUF-Florín Húngaro</item>
+        <item>IDR-Rupia Indonesia</item>
+        <item>ILS-Shekel Israelí</item>
+        <item>INR-Rupia India</item>
+        <item>IQD-Dinar Iraquí</item>
+        <item>ISK-Corona Islandesa</item>
+        <item>JMD-Dólar Jamaiquino</item>
+        <item>JOD-Dinar Jordano</item>
+        <item>JPY-Yen Japonés</item>
+        <item>KES-Chelín Keniano</item>
+        <item>KHR-Riel Camboyano</item>
+        <item>KMF-Franco Comoro</item>
+        <item>KPW-Won de Corea del Norte</item>
+        <item>KRW-Won Coreano</item>
+        <item>KWD-Dinar Kuwaití</item>
+        <item>KYD-Dólar de las Islas Caimán</item>
+        <item>KZT-Kazajstán Tenge</item>
+        <item>LAK-Lao Kip</item>
+        <item>LBP-Libra Libanesa</item>
+        <item>LKR-Rupia de Sri Lanka</item>
+        <item>LRD-Dólar Liberiano</item>
+        <item>LSL-Loti de Lesotho</item>
+        <item>LTL-Lita Lituana</item>
+        <item>LVL-Lat Letón</item>
+        <item>LYD-Dinar Libio</item>
+        <item>MAD-Dirham Marroquí</item>
+        <item>MDL-Leu Moldavo</item>
+        <item>MGF-Franco Malgache</item>
+        <item>MKD-Denar Macedonio</item>
+        <item>MMK-Kyat de Myanmar</item>
+        <item>MNT-Tugrik Mongol</item>
+        <item>MOP-Pataca de Macao</item>
+        <item>MRO-Ouguiya de Mauritania</item>
+        <item>MTL-Lira Maltesa</item>
+        <item>MUR-Rupia de Mauricio</item>
+        <item>MVR-Rupia de Maldivas</item>
+        <item>MWK-Kwacha Malawi</item>
+        <item>MXN-Peso Mexicano</item>
+        <item>MYR-Ringgit Malayo</item>
+        <item>MZM-Mozambique Metical</item>
+        <item>NAD-Dólar de Namibia</item>
+        <item>NGN-Naira Nigeriano</item>
+        <item>NIO-Nicaragua Córdoba</item>
+        <item>NOK-Corona Noruega</item>
+        <item>NPR-Rupia Nepalí</item>
+        <item>NZD-Dólar de Nueva Zelanda</item>
+        <item>OMR-Rial Omaní</item>
+        <item>PAB-Balboa de Panamá</item>
+        <item>PEN-Nuevo Sol Peruano</item>
+        <item>PGK-Kina de Papúa Nueva Guinea</item>
+        <item>PHP-Peso Filipino</item>
+        <item>PKR-Rupia Paquistaní</item>
+        <item>PLN-Zloty Polaco</item>
+        <item>PYG-Guaraní Paraguayo</item>
+        <item>QAR-Qatar Rial</item>
+        <item>ROL-Leu Rumano</item>
+        <item>RUB-Rublo Ruso</item>
+        <item>SAR-Riyal Saudí</item>
+        <item>SBD-Dólar de las Islas Salomón</item>
+        <item>SCR-Rupia de Seychelles</item>
+        <item>SDD-Dinar Sudanés</item>
+        <item>SEK-Corona Sueca</item>
+        <item>SGD-Dólar de Singapur</item>
+        <item>SHP-Libra de Santa Helena</item>
+        <item>SIT-Tolar Esloveno</item>
+        <item>SKK-Corona Eslovaca</item>
+        <item>SLL-Sierra Leona Leona</item>
+        <item>SOS-Chelín Somalí</item>
+        <item>SRG-Surinam Florín</item>
+        <item>STD-Sao Tome Dobra</item>
+        <item>SVC-Colon El Salvador</item>
+        <item>SYP-Libra Siria</item>
+        <item>SZL-Lilangeni de Suazilandia</item>
+        <item>THB-Baht Tailandés</item>
+        <item>TND- Dinar Tunecino</item>
+        <item>TOP-Tonga Pa\'anga</item>
+        <item>TRL-Lira Turca</item>
+        <item>TRY-Lira de Turquía</item>
+        <item>TTD-Trinidad &amp; Tobago Dólar</item>
+        <item>TWD-Dólar de Taiwán</item>
+        <item>TZS-Shilling Tanzano</item>
+        <item>UAH-Ucrania Hryvnia</item>
+        <item>UGX-Chelín Ugandés</item>
+        <item>USD-Dólar de Estados Unidos</item>
+        <item>UYU-Peso Uruguayo</item>
+        <item>VEB-Bolívar Venezolano</item>
+        <item>VND-Dong de Vietnam</item>
+        <item>VUV-Vanuatu Vatu</item>
+        <item>WST-Tala de Samoa</item>
+        <item>XAF-Franco CFA (BEAC)</item>
+        <item>XAG-Onzas de Plata</item>
+        <item>XAU-Onzas de Oro</item>
+        <item>XCD-Dólar del Caribe Oriental</item>
+        <item>XOF-Franco CFA (BCEAO)</item>
+        <item>XPD-Onzas de Paladio</item>
+        <item>XPF-Franco Pacífico</item>
+        <item>XPT-Onzas de Platino</item>
+        <item>YER-Rial Yemení</item>
+        <item>YUM-Dinar Yugoslavo</item>
+        <item>ZAR-Rand Sudafricano</item>
+        <item>ZMK-Kwacha Zambiano</item>
+        <item>ZWD-Zimbabwe Dólar</item>
+    </string-array>
+    <string name="title_activity_conversion"></string>
+    <string name="title_activity_favorites"></string>
+    <string name="ToastInsertValue">Inserta un valor por favor</string>
+    <string name="DialogTitle">Favoritos</string>
+    <string name="DialogCorrect">Correctamente añadido a favoritos</string>
+    <string name="DialogDuplicate">Ya está en tus favoritos</string>
+    <string name="PleaseWait">Por favor espere...</string>
+    <string name="ProcessingConversion">Procesando conversión</string>
+    <string name="ConversionError">Error en la Conversion</string>
+    <string name="ConversionErrorDueService">Esta conversión no está disponible porque el servicio</string>
+    <string name="ConversionErrorDueInternet">Sin conexión a Internet</string>
+
+    <string name="Len">Longitud</string>
+        <string name="Kilometers">Kilómetros</string>
+        <string name="Meters">Metros</string>
+        <string name="Centimeters">Centímetros</string>
+        <string name="Miles">Millas</string>
+        <string name="Yards">Yardas</string>
+        <string name="Feet">Pies</string>
+        <string name="Inches">Pulgadas</string>
+    <string name="Cap">Capacidad</string>
+        <string name="Liters">Litros</string>
+        <string name="Milliliters">Mililitros</string>
+        <string name="Gallons">Galones</string>
+        <string name="Quarts">Cuartos</string>
+        <string name="Fluid">Oz de líquidos</string>
+    <string name="Wei">Peso</string>
+        <string name="Kilogram">Kilogramo</string>
+        <string name="Milligram">Miligramos</string>
+        <string name="Tons">Toneladas</string>
+        <string name="Pounds">Libras</string>
+        <string name="Ounces">Onzas</string>
+    <string name="Sto">Almacenamiento</string>
+        <string name="terabyte">terabyte</string>
+        <string name="gigabyte">gigabyte</string>
+        <string name="megabyte">megabyte</string>
+        <string name="kilobyte">kilobyte</string>
+        <string name="bytes">byte</string>
+        <string name="kilobit">kilobit</string>
+        <string name="megabit">megabit</string>
+        <string name="gigabit">gigabit</string>
+        <string name="bit">bit</string>
+    <string name="Tem">Temperatura</string>
+        <string name="Celsius">Celsius</string>
+        <string name="Fahrenheit">Fahrenheit</string>
+
+    <!--Arrays with translations-->
+    <string-array name="measure_options">
+        <item>@string/Len</item>
+        <item>@string/Cap</item>
+        <item>@string/Wei</item>
+        <item>@string/Sto</item>
+        <item>@string/Tem</item>
+    </string-array>
+    <string-array name="Longitud">
+        <item>@string/Kilometers</item>
+        <item>@string/Meters</item>
+        <item>@string/Centimeters</item>
+        <item>@string/Miles</item>
+        <item>@string/Yards</item>
+        <item>@string/Feet</item>
+        <item>@string/Inches</item>
+    </string-array>
+    <string-array name="Capacidad">
+        <item>@string/Liters</item>
+        <item>@string/Milliliters</item>
+        <item>@string/Gallons</item>
+        <item>@string/Quarts</item>
+        <item>@string/Fluid</item>
+    </string-array>
+    <string-array name="Peso">
+        <item>@string/Kilogram</item>
+        <item>@string/Milligram</item>
+        <item>@string/Tons</item>
+        <item>@string/Pounds</item>
+        <item>@string/Ounces</item>
+    </string-array>
+    <string-array name="Almacenamiento">
+        <item>@string/terabyte</item>
+        <item>@string/gigabyte</item>
+        <item>@string/megabyte</item>
+        <item>@string/kilobyte</item>
+        <item>@string/bytes</item>
+        <item>@string/kilobit</item>
+        <item>@string/megabit</item>
+        <item>@string/gigabit</item>
+        <item>@string/bit</item>
+    </string-array>
+    <string-array name="Temperatura">
+        <item>@string/Celsius</item>
+        <item>@string/Fahrenheit</item>
+    </string-array>
+
+</resources>
